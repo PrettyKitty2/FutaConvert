@@ -1,0 +1,27 @@
+﻿<Window x:Class="Futa_Converter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Futa_Converter"
+        mc:Ignorable="d"
+        Title="PK's Futa Converter" Height="436.364" Width="589.091">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="385" Margin="338,10,0,0" VerticalAlignment="Top" Width="233" Source="Resources/FutaPreview.png"/>
+        <Image HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100" Source="Resources/PKLogo.png"/>
+        <Button Content="Browse" HorizontalAlignment="Left" Margin="268,231,0,0" VerticalAlignment="Top" Width="48" Height="23" RenderTransformOrigin="0.502,0.522" Click="Button_Click_1"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="23" Margin="10,231,0,0" TextWrapping="Wrap" Text="Select the .DAE file you want to Futafy" VerticalAlignment="Top" Width="253" TextChanged="TextBox_TextChanged" FontSize="11" TextDecorations="{x:Null}" FontStyle="Italic"/>
+        <RadioButton x:Name="fLarge" Content="Large" HorizontalAlignment="Left" Margin="10,292,0,0" VerticalAlignment="Top" IsChecked="True"/>
+        <RadioButton x:Name="fMedium" Content="Medium" HorizontalAlignment="Left" Margin="10,312,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="fSmall" Content="Small" HorizontalAlignment="Left" Margin="10,332,0,0" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,259,0,0" TextWrapping="Wrap" Text="Futa Set" VerticalAlignment="Top" Height="28" Width="73" FontSize="18" FontWeight="Bold" TextDecorations="{x:Null}"/>
+        <RadioButton x:Name="hLarge" Content="Large" HorizontalAlignment="Left" Margin="160,292,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="hMedium" Content="Medium" HorizontalAlignment="Left" Margin="160,312,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="hSmall" Content="Small" HorizontalAlignment="Left" Margin="160,332,0,0" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="160,259,0,0" TextWrapping="Wrap" Text="Herma Set" VerticalAlignment="Top" Height="28" Width="104" FontSize="18" FontWeight="Bold"/>
+        <Button x:Name="Convert" Content="Convert!" HorizontalAlignment="Left" Margin="100,357,0,0" VerticalAlignment="Top" Width="70" Height="28" Click="Convert_Click"/>
+        <ProgressBar HorizontalAlignment="Left" Height="10" Margin="86,385,0,0" VerticalAlignment="Top" Width="100"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,100,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="95" Width="306" FontSize="16" FontWeight="Bold" TextDecorations="{x:Null}"><Run Text="Steps:"/><LineBreak/><Run FontSize="10" Text="■  Select the .DAE for the legs you want to convert.&#xD;&#xA;■  Select the Size for the Set you want to have.&#xD;&#xA;■  Click Convert!&#xD;&#xA;■  Import the new .DAE into Textools under SmallClothes Legs, or The Emperors New Breeches."/></TextBlock>
+
+    </Grid>
+</Window>

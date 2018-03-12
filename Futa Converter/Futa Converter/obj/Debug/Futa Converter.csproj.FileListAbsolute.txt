@@ -1,0 +1,15 @@
+F:\System Folders\Desktop\Programs\Futa Converter\Futa Converter\bin\Debug\Futa Converter.exe.config
+F:\System Folders\Desktop\Programs\Futa Converter\Futa Converter\bin\Debug\Futa Converter.exe
+F:\System Folders\Desktop\Programs\Futa Converter\Futa Converter\bin\Debug\Futa Converter.pdb
+F:\System Folders\Desktop\Programs\Futa Converter\Futa Converter\obj\Debug\Futa Converter.csprojResolveAssemblyReference.cache
+F:\System Folders\Desktop\Programs\Futa Converter\Futa Converter\obj\Debug\MainWindow.g.cs
+F:\System Folders\Desktop\Programs\Futa Converter\Futa Converter\obj\Debug\App.g.cs
+F:\System Folders\Desktop\Programs\Futa Converter\Futa Converter\obj\Debug\Futa Converter_MarkupCompile.cache
+F:\System Folders\Desktop\Programs\Futa Converter\Futa Converter\obj\Debug\Futa Converter_MarkupCompile.lref
+F:\System Folders\Desktop\Programs\Futa Converter\Futa Converter\obj\Debug\MainWindow.baml
+F:\System Folders\Desktop\Programs\Futa Converter\Futa Converter\obj\Debug\Futa Converter.g.resources
+F:\System Folders\Desktop\Programs\Futa Converter\Futa Converter\obj\Debug\Futa_Converter.Properties.Resources.resources
+F:\System Folders\Desktop\Programs\Futa Converter\Futa Converter\obj\Debug\Futa Converter.csproj.GenerateResource.cache
+F:\System Folders\Desktop\Programs\Futa Converter\Futa Converter\obj\Debug\Futa Converter.csproj.CoreCompileInputs.cache
+F:\System Folders\Desktop\Programs\Futa Converter\Futa Converter\obj\Debug\Futa Converter.exe
+F:\System Folders\Desktop\Programs\Futa Converter\Futa Converter\obj\Debug\Futa Converter.pdb
